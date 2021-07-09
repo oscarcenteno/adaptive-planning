@@ -4,9 +4,7 @@ Resources to illustrate how we can embrace changes in software projects applying
 
 ## Files
 
-+ adaptive-planning.xlsx: Example on an already-done project, to visualize what info does adaptive planning provides and how the project evolves by embracing changes, not predicting them.
-+ adaptive-planning-template.xlsm: Template to be used on Day 0 of a project.
-+ adaptive-planning.pptx: Overview of techniques applied for adapting planning.
++ adaptive-planning-example.xlsx: Example on an already-done project, to visualize what info does adaptive planning provides and how the project evolves by embracing changes, not predicting them.
 
 ## Books
 
